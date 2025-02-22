@@ -1,2 +1,2 @@
 # npack
-ln -s npack.sh /usr/local/bin/npack
+sudo ln -s ~/git/npack/npack.sh /usr/local/bin/npack
